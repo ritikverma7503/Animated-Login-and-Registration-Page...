@@ -1,1 +1,3 @@
 # Animated-Login-and-Registration-Page...
+
+![screenshot](https://github.com/user-attachments/assets/72cccf8f-40e2-4e97-814e-9a06e720200d)
